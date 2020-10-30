@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include<iostream.h>
 using namespace std;
 int main()
 {
@@ -8,6 +9,7 @@ int main()
     {
         int n;
         cin>>n;
+        cout<<n;
         int a[n],count=0;
         unsigned long long int sum=0,x;
         float y,z;
